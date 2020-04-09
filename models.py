@@ -59,4 +59,6 @@ class LampArray():
                 return True
 
         return False
+
+#TESTE
     
